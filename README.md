@@ -68,6 +68,59 @@ MERN Stack application for showcasing interior design projects and services.
 Task management application built using HTML, CSS, and JavaScript.
 
 ---
+📊 My Coding Stats
+
+<table>
+  <tr>
+    <td align="center">
+      CodeChef
+      <br/>
+      <img src="https://img.shields.io/badge/Profile-Visit-orange?logo=codechef" />
+      <br/>
+      <a href="https://www.codechef.com/users/kit27csbs43">Click Here</a>
+    </td>
+    <td align="center">
+      LeetCode
+      <br/>
+      <img src="https://leetcard.jacoblin.cool/kit27csbs43?theme=dark&font=Caladea" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Codeforces
+      <br/>
+      <a href="https://codeforces.com/profile/kit27.csbs43">Profile Link</a>
+    </td>
+    <td align="center">
+      GitHub Stats
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ragavi-05&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      GitHub Streak
+      <br/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Ragavi-05&theme=monokai&hide_border=false" />
+    </td>
+    <td align="center">
+      Top Languages
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragavi-05&theme=monokai&hide_border=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ragavi-05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
 
 ## 🏆 Competitive Programming
 
