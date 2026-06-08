@@ -1,4 +1,6 @@
-# Hi 👋, I'm Ragavi A
+# Hi 👋, 
+![RAGAVI A](https://capsule-render.vercel.app/api?type=wave&height=300&color=DAE8FF&customColorList=DAE8FF,D6DFFF,E5E0FF&text=Ragavi%20A&fontSize=50)
+
 
 ### B.Tech Computer Science and Business Systems Student | Full Stack Developer | AI Enthusiast
 
